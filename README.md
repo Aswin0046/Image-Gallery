@@ -22,3 +22,7 @@ ImageVerse is a web application that allows users to upload, view, and manage im
    git clone https://github.com/your-username/Image-gallery.git
    cd Image-gallery
 
+###Sample Output
+![Screenshot (29)](https://github.com/Aswin0046/Image-Gallery/assets/116013841/fb5ac6c0-39b2-4a26-b052-3c0a18b30a82)
+![Screenshot (30)](https://github.com/Aswin0046/Image-Gallery/assets/116013841/5417066d-662f-4092-b3ac-93fee4c020ef)
+
